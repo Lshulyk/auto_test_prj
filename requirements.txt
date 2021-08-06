@@ -1,0 +1,4 @@
+selenium==3.141.0
+pytest==6.2.4
+chromedriver==2.24.1
+webdriver-manager==3.4.2
